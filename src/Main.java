@@ -16,7 +16,7 @@ public class Main {
 //            a+=i;
 //
 //        }
-//        return a;
+//        return a; 
 //
 
         System.out.println(Bob.enough(20,19,2));
