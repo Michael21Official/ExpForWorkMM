@@ -5,6 +5,6 @@ public class Solution {
         {
             System.out.println(wynik =(wynik.concat(string)));
         }
-        return wynik;
+        return wynik; 
     }
 }
